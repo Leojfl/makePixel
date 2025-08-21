@@ -37,7 +37,7 @@
             <div class="mb-12">
                 <h2 class="text-4xl font-bold text-blue-700 border-l-8 border-blue-600 pl-4 mb-4">¿Quiénes somos?</h2>
                 <p class="text-lg leading-relaxed text-gray-700">
-                    En <strong>MakePixel</strong> llevamos más de <strong>12 años</strong> siendo aliados estratégicos de la industria en México, ofreciendo soluciones integrales a través de la comercialización de insumos, equipos y productos especializados para entornos industriales.
+                    En <strong>MakePixel</strong> llevamos más de <strong>6 años</strong> siendo aliados estratégicos de la industria en México, ofreciendo soluciones integrales a través de la comercialización de insumos, equipos y productos especializados para entornos industriales.
                 </p>
             </div>
 
